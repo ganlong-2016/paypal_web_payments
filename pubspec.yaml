@@ -1,7 +1,9 @@
 name: paypal_web_payments
-description: "A new Flutter plugin project."
-version: 0.0.1
-homepage:
+description: Flutter 插件，用于集成 PayPal Web 支付功能，支持 Android 平台。
+version: 0.1.0
+homepage: https://github.com/ganlong-2016/paypal_web_payments
+repository: https://github.com/ganlong-2016/paypal_web_payments
+issue_tracker: https://github.com/ganlong-2016/paypal_web_payments/issues
 
 environment:
   sdk: ^3.7.2
